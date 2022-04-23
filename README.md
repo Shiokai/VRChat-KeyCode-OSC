@@ -1,0 +1,2 @@
+# VRChat-KeyCode-OSC
+VRChatにOSCを使ってキーボードインプットに対応する数値を送信するツール
