@@ -1,0 +1,10 @@
+{
+    "address": "127.0.0.1",
+    "port": 9000,
+    "keycode_path": "/avatar/parameters/KeyCode",
+    "mouse_x_path": "/avatar/parameters/mouse_x",
+    "mouse_y_path": "/avatar/parameters/mouse_y",
+    "randomized": false,
+    "use_keycode": true,
+    "use_mouse": true
+}
